@@ -13,10 +13,18 @@ My work spans fault isolation, incident handovers, application data flows, and d
 | Backend & web development | PHP (OOP), Laravel, MySQL, REST APIs, JavaScript, HTML5/CSS3, Shopify Liquid |
 | Mobile, cloud & tooling | Flutter (Android/iOS), AWS (EC2, DNS, hosting), Git, Postman, Linux CLI |
 
-## Work in this account
+## Selected work
 
-- Network and security operations: diagnostic commands, outage triage, SIEM investigations, and incident handover notes.
-- Software development: PHP/MySQL applications, storefronts, Android code, and smaller web projects. Each project README describes the implementation and its setup requirements.
+| Repository | Implementation |
+| --- | --- |
+| [NOC/SOC operational runbooks](https://github.com/shreyasingh3005/noc-soc-operational-runbooks) | Branch outage triage, SIEM investigation, escalation templates and Junos/Linux diagnostics; synthetic examples |
+| [Hotel and room management CRM](https://github.com/shreyasingh3005/uttrakhand) | PHP/PDO and MySQL; hotel listings, room inventory, rates and booking operations |
+| [Expotree](https://github.com/shreyasingh3005/expotree) | PHP/MySQL event listings, stall pricing and administration |
+| [Grooves Shopify theme](https://github.com/shreyasingh3005/Grooves-shopify) | Liquid storefront and Node/Express support service |
+| [Print project](https://github.com/shreyasingh3005/Print-by-google-studio-) | Kotlin/Compose Android prototype and a separate PHP printing service |
+| [Support-message classifier](https://github.com/shreyasingh3005/Hiver-SDE-Intern-Assignment) | Offline Python classification, example retrieval, escalation rules and evaluation |
+
+Each README describes the checked-in implementation, local setup and known limitations. The public mobile project above uses Kotlin/Compose.
 
 ## Credentials
 
